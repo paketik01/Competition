@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test: quel blogueur êtes-vous?:) </string>
+    <string name="question_text">Quel messager utilisez-vous plus souvent?</string>
+    <string name="text_img1">Telegram</string>
+    <string name="text_img2">VK</string>
+    <string name="button1_text">Voter</string>
+    <string name="button2_text">Voter</string>
+    <string name="button3_text">Rebrousser chemin</string>
+</resources>

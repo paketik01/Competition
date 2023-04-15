@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Тест: Какой ты блогер?:) </string>
+    <string name="question_text">Каким мессенджером вы чаще пользуетесь?</string>
+    <string name="text_img1">Telegram</string>
+    <string name="text_img2">VK</string>
+    <string name="button1_text">Голосовать</string>
+    <string name="button2_text">Голосовать</string>
+    <string name="button3_text">Вернуться назад</string>
+</resources>

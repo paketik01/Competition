@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="question_textSize">25dp</dimen>
+    <dimen name="question_marginTop">70dp</dimen>
+    <dimen name="img1_width">150dp</dimen>
+    <dimen name="img1_height">150dp</dimen>
+    <dimen name="img1_marginStart">30dp</dimen>
+    <dimen name="img1_marginTop">180dp</dimen>
+    <dimen name="img2_width">150dp</dimen>
+    <dimen name="img2_height">150dp</dimen>
+    <dimen name="img2_marginTop">180dp</dimen>
+    <dimen name="img2_marginEnd">30dp</dimen>
+    <dimen name="text_img1_marginTop">20dp</dimen>
+    <dimen name="text_img1_size">20dp</dimen>
+    <dimen name="text_img2_marginTop">20dp</dimen>
+    <dimen name="text_img2_size">20dp</dimen>
+    <dimen name="button1_width">181dp</dimen>
+    <dimen name="button1_height">62dp</dimen>
+    <dimen name="button1_marginTop">50dp</dimen>
+    <dimen name="button1_textSize">20dp</dimen>
+    <dimen name="button2_width">181dp</dimen>
+    <dimen name="button2_height">62dp</dimen>
+    <dimen name="button2_marginTop">50dp</dimen>
+    <dimen name="button2_textSize">20dp</dimen>
+    <dimen name="button3_marginBottom">80dp</dimen>
+    <dimen name="button3_textSize">20dp</dimen>
+    <dimen name="button3_width">209dp</dimen>
+    <dimen name="button3_height">71dp</dimen>
+</resources>
